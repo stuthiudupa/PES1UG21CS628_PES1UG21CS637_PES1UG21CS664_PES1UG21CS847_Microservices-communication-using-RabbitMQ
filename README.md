@@ -1,0 +1,2 @@
+# PES1UG21CS628_PES1UG21CS637_PES1UG21CS664_PES1UG21CS847_Microservices-communication-using-RabbitMQ
+Inventory Management using RabbitMQ
